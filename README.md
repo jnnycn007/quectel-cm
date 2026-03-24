@@ -1,3 +1,8 @@
+# :warning: Warning :warning:
+This repository is a mirror of the original quectel-cm source code.
+
+For official support, including build-related issues, bug reports, or feature requests, please contact Quectel directly through their official support channels. This mirror is provided for convenience and reference purposes only, and it is not actively maintained for issue tracking or support.
+
 # quectel-cm
 Quectel Connect Manager tool 
 
